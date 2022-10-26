@@ -1,0 +1,38 @@
+body {
+
+}
+#y{
+  text-align: center;
+}
+main{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  gap: 5rem;
+}
+
+div{
+  height: 10rem;
+  width: 10rem;
+  border-radius:100rem ;
+}
+div:hover{
+  box-shadow: 1rem 1rem 1rem rgb(108, 108, 108);
+
+}
+#a{
+  background:linear-gradient(45deg  , rgb(27, 105, 27) 50%, violet 50%);
+}
+#b{
+  background:linear-gradient(45deg  , rgb(57, 73, 89) 50%, yellow 50%);
+
+}
+#c{
+  background:linear-gradient(45deg  , black 50%, orange 50%);
+
+}
+#d{
+  background:linear-gradient(45deg  , rgb(39, 39, 175) 50%, rgb(122, 202, 228) 50%);
+
+}

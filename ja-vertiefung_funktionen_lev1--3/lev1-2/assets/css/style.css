@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}
+
+label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  flex-direction: column;
+  background-color: antiquewhite;
+  height: 5rem;
+}
+
+input {
+  width: 25%;
+  height: 25%;
+  accent-color: blue;
+  color: red;
+  font-size: 1rem;
+}

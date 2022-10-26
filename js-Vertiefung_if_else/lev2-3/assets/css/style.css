@@ -1,0 +1,14 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+input{
+  width: 20%;
+  height: 20%;
+  accent-color: blue;
+  color: red;
+  font-size: 5rem;
+}
